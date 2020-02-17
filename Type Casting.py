@@ -11,6 +11,7 @@ print(float("1.1")+float("2.5")) #print(1.1+2.5)
 print(str(2)+str(5)) #print("2"+"5")
 print("제나이는 "+str(7)+"살입니다")
 
+
 #주의!
 '''print(int("Hello world")) #논리적으로 변환이 가능한지 생각하기'''
 

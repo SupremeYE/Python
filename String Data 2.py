@@ -7,6 +7,7 @@ print(string[0])
 print(a[-1])
 print(a[-2])
 
+
 a="Hello world"
 b=a[0]+a[1]+a[2]+a[3]+a[4]
 print(b)

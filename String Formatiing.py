@@ -16,6 +16,7 @@ print("%d" % 3)
 print("%s" %"화이팅")
 print("%s" % "노력하자")
 
+
 number=5
 print("나는%d개의 사과가 있어"%number)
 

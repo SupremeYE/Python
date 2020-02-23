@@ -3,7 +3,7 @@ r=10
 res=2*math.pi*r
 print(res)'''
 
-from Calculate_mod1 import sum
+from mod1 import diff
 print(3,5)
 
 

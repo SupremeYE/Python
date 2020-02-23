@@ -11,6 +11,7 @@ print(f(2)+g(3))
 print("="*30)
 
 
+
 #2
 def f(x):
     print("f시작")
